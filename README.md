@@ -1,7 +1,6 @@
-# Moradia Estudantil
-
 # Sumário
 
+- [Moradia Estudantil](#moradia-estudantil)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Descrição dos Arquivos e Diretórios](#descrição-dos-arquivos-e-diretórios)
 - [Funcionalidades Implementadas](#funcionalidades-implementadas)
@@ -9,6 +8,34 @@
 - [Bugs Conhecidos](#bugs-conhecidos)
 - [Melhorias Futuras](#melhorias-futuras)
 - [Contribuidores](#contribuidores)
+
+## Moradia Estudantil
+
+O projeto Moradia Estudantil visa oferecer soluções habitacionais acessíveis para estudantes em instituições de ensino superior. Compreendendo as crescentes dificuldades enfrentadas por estudantes universitários em encontrar acomodações adequadas e acessíveis, o projeto busca fornecer uma alternativa viável e econômica.
+
+### Objetivos Principais:
+
+1. **Acesso à Moradia Acessível**: O principal objetivo do projeto é garantir que os estudantes tenham acesso a moradias de qualidade a preços acessíveis, minimizando as preocupações financeiras e permitindo que se concentrem em seus estudos.
+
+2. **Comunidade Estudantil**: Além de oferecer moradias, o projeto busca promover um senso de comunidade entre os estudantes, proporcionando um ambiente de convivência propício ao crescimento acadêmico e pessoal.
+
+3. **Localização Conveniente**: As moradias estudantis são planejadas estrategicamente para garantir fácil acesso aos campi universitários, centros urbanos e outras comodidades essenciais, proporcionando conveniência aos moradores.
+
+4. **Sustentabilidade e Eficiência Energética**: O projeto também prioriza a sustentabilidade ambiental e a eficiência energética, integrando tecnologias e práticas que reduzem o impacto ambiental das moradias e promovem um estilo de vida mais sustentável.
+
+### Principais Características:
+
+- **Alojamento Compartilhado**: As moradias são projetadas para acomodar múltiplos estudantes, oferecendo quartos individuais ou compartilhados, dependendo das preferências e necessidades dos moradores.
+
+- **Espaços Comunitários**: Além dos quartos individuais, as moradias incluem espaços comuns, como cozinhas compartilhadas, salas de estar e áreas de estudo, que incentivam a interação entre os moradores e promovem um ambiente colaborativo.
+
+- **Segurança e Conforto**: A segurança e o conforto dos moradores são prioridades fundamentais. As moradias são equipadas com sistemas de segurança modernos e oferecem instalações e serviços que garantem o bem-estar dos estudantes.
+
+- **Apoio Acadêmico e Social**: Além de fornecer moradias, o projeto oferece apoio acadêmico e social aos estudantes, facilitando a integração na vida universitária e proporcionando recursos e serviços que auxiliam no sucesso acadêmico e pessoal.
+
+### Impacto e Benefícios:
+
+O projeto Moradia Estudantil tem o potencial de impactar positivamente a vida de estudantes universitários, oferecendo moradias acessíveis, promovendo um ambiente de apoio e comunidade, e incentivando um estilo de vida sustentável. Ao fornecer soluções habitacionais que atendam às necessidades dos estudantes, o projeto contribui para o sucesso acadêmico e pessoal, além de enriquecer a experiência universitária como um todo.
 
 ## Estrutura do Projeto
 
