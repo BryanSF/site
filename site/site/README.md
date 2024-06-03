@@ -14,22 +14,22 @@
 
 O projeto está organizado da seguinte forma:
 
-/site
-    /assets
-        /telas
-            anunciar.html
-            login.html
-            propriedades.html
-        /styles
-            style.css
-            login.css
-        /scripts
-            main.js
-    /img
-        img1.jpg
-        img2.jpeg
-    index.html
-    README.md
+- /site
+  - /assets
+    - /telas
+      - anunciar.html
+      - login.html
+      - propriedades.html
+    - /styles
+      - style.css
+      - login.css
+    - /scripts
+      - main.js
+  - /img
+    - img1.jpg
+    - img2.jpeg
+  - index.html
+  - README.md
 
 ### Descrição dos Arquivos e Diretórios
 
