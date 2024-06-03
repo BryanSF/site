@@ -3,14 +3,12 @@
 # Sumário
 
 - [Estrutura do Projeto](#estrutura-do-projeto)
-  - [/site](#site)
-    - [/assets](#assets)
-      - [/telas](#telas)
-      - [/styles](#styles)
-      - [/scripts](#scripts)
-    - [/img](#img)
-    - [index.html](#indexhtml)
-    - [README.md](#readmemd)
+- [Descrição dos Arquivos e Diretórios](#descrição-dos-arquivos-e-diretórios)
+- [Funcionalidades Implementadas](#funcionalidades-implementadas)
+- [Instruções para Executar o Projeto](#instruções-para-executar-o-projeto)
+- [Bugs Conhecidos](#bugs-conhecidos)
+- [Melhorias Futuras](#melhorias-futuras)
+- [Contribuidores](#contribuidores)
 
 ## Estrutura do Projeto
 
